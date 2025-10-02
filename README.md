@@ -29,7 +29,7 @@ Automatically redirect to your preferred dashboard when opening Home Assistant!
 
 1. Open HACS in your Home Assistant instance
 2. Click the three dots menu (top right) and select "Custom repositories"
-3. Add this repository URL: `https://github.com/shinypancake/dashing-default`
+3. Add this repository URL: `https://github.com/shinypancake/dash-ing-default`
 4. Select category: "Dashboard"
 5. Click "Add"
 6. Search "Dashing Default". Choose it

@@ -32,8 +32,8 @@ Automatically redirect to your preferred dashboard when opening Home Assistant!
 3. Add this repository URL: `https://github.com/shinypancake/dash-ing-default`
 4. Select category: "Dashboard"
 5. Click "Add"
-6. Search "Dashing Default". Choose it
-7. Click "Install"
+6. Search "Default Dashboard - Shiny Pancake". Choose it
+7. Click "Download"
 
 ### Step 2: Add as a Lovelace Resource
 
@@ -50,7 +50,7 @@ Automatically redirect to your preferred dashboard when opening Home Assistant!
 3. The integration will automatically create two helper entities:
    * `input_select.default_dashboard` (Dropdown helper)
    * `input_boolean.default_dashboard` (Toggle helper)
-4. You'll see console messages confirming the helpers were created
+
 
 ### Step 4: Configure Your Default Dashboard
 
